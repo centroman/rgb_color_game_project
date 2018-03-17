@@ -1,2 +1,2 @@
 # rgb_color_game_project
-The RGB Color Guessing Game 
+It is made by using HTML, CSS, Javascript during web developer bootcamp.
